@@ -7,6 +7,7 @@ Active Spectral Reduction (ASR) is a structural look-ahead heuristic for Boolean
 ## Technical Methodology
 
 Standard SAT solvers rely on local conflict-driven heuristics (VSIDS). ASR shifts the bottleneck from search to linear algebra by treating the CNF as a bipartite graph.
+[View Technical Paper: ASR.pdf](./ASR.pdf)
 
 ### Spectral Scoring
 We compute the principal eigenvector $x$ of the variable-interaction matrix $M = A^T A$:
@@ -24,3 +25,4 @@ ASR (v4) selects literals that maximize the collapse of the remaining formula's 
 | **Conflicts (N=600)** | Stalled (>10^6) | 18,450 | **N/A** |
 | **Time (N=600)** | Timeout | 34.2s | **N/A** |
 
+[View License: CC BY-NC 4.0](./LICENSE)
