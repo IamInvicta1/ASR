@@ -17,5 +17,5 @@ where $A$ is the bipartite adjacency matrix. $x_i$ represents the global central
 ### The Destructive Oracle
 ASR (v4) selects literals that maximize the collapse of the remaining formula's spectral energy, effectively minimizing the **Rayleigh Quotient** of the graph after simplification.
 
-
+The author intends to release ASR under a permissive open-source license after an initial period of development and funding.
 [View License: CC BY-NC 4.0](./LICENSE)
