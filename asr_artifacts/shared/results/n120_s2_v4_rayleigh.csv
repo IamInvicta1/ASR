@@ -1,0 +1,2 @@
+iter,k_added_total,new_units,status,conflicts,cpu_time,cnf_path,log_path
+0,0,,UNSAT,1301,0.010337,shared/cnf/n120_s2.cnf,shared/logs/n120_s2_v4_iter0.log

@@ -1,0 +1,8 @@
+iter,k_added_total,new_units,status,conflicts,cpu_time,cnf_path,log_path
+0,0,,SAT,894,0.0,shared/cnf/n120_s1_v3_iter0.cnf,shared/logs/n120_s1_v3_iter0.log
+1,1,-115,SAT,347,0.003848,shared/cnf/n120_s1_v3_iter1.cnf,shared/logs/n120_s1_v3_iter1.log
+2,2,-41,SAT,137,0.003035,shared/cnf/n120_s1_v3_iter2.cnf,shared/logs/n120_s1_v3_iter2.log
+3,3,-33,SAT,77,0.002807,shared/cnf/n120_s1_v3_iter3.cnf,shared/logs/n120_s1_v3_iter3.log
+4,4,-65,SAT,79,0.002713,shared/cnf/n120_s1_v3_iter4.cnf,shared/logs/n120_s1_v3_iter4.log
+5,5,-3,SAT,37,0.002887,shared/cnf/n120_s1_v3_iter5.cnf,shared/logs/n120_s1_v3_iter5.log
+6,6,107,UNSAT,0,0.002387,shared/cnf/n120_s1_v3_iter6.cnf,shared/logs/n120_s1_v3_iter6.log

@@ -1,0 +1,17 @@
+iter,k_added_total,new_units,status,conflicts,cpu_time,cnf_path,log_path
+0,0,,UNSAT,1301,0.005601,shared/cnf/n120_s2_v3_iter0.cnf,shared/logs/n120_s2_v3_iter0.log
+1,1,51,UNSAT,639,0.003427,shared/cnf/n120_s2_v3_iter1.cnf,shared/logs/n120_s2_v3_iter1.log
+2,2,-117,UNSAT,344,0.003893,shared/cnf/n120_s2_v3_iter2.cnf,shared/logs/n120_s2_v3_iter2.log
+3,3,87,UNSAT,164,0.001692,shared/cnf/n120_s2_v3_iter3.cnf,shared/logs/n120_s2_v3_iter3.log
+4,4,105,UNSAT,73,0.00294,shared/cnf/n120_s2_v3_iter4.cnf,shared/logs/n120_s2_v3_iter4.log
+5,5,-92,UNSAT,49,0.002863,shared/cnf/n120_s2_v3_iter5.cnf,shared/logs/n120_s2_v3_iter5.log
+6,6,-1,UNSAT,18,0.001915,shared/cnf/n120_s2_v3_iter6.cnf,shared/logs/n120_s2_v3_iter6.log
+7,7,2,UNSAT,18,0.002122,shared/cnf/n120_s2_v3_iter7.cnf,shared/logs/n120_s2_v3_iter7.log
+8,8,3,UNSAT,20,0.002779,shared/cnf/n120_s2_v3_iter8.cnf,shared/logs/n120_s2_v3_iter8.log
+9,9,4,UNSAT,20,0.002883,shared/cnf/n120_s2_v3_iter9.cnf,shared/logs/n120_s2_v3_iter9.log
+10,10,5,UNSAT,11,0.002966,shared/cnf/n120_s2_v3_iter10.cnf,shared/logs/n120_s2_v3_iter10.log
+11,11,6,UNSAT,2,0.002043,shared/cnf/n120_s2_v3_iter11.cnf,shared/logs/n120_s2_v3_iter11.log
+12,12,7,UNSAT,2,0.003353,shared/cnf/n120_s2_v3_iter12.cnf,shared/logs/n120_s2_v3_iter12.log
+13,13,8,UNSAT,2,0.002084,shared/cnf/n120_s2_v3_iter13.cnf,shared/logs/n120_s2_v3_iter13.log
+14,14,9,UNSAT,2,0.002489,shared/cnf/n120_s2_v3_iter14.cnf,shared/logs/n120_s2_v3_iter14.log
+15,15,10,UNSAT,0,0.002392,shared/cnf/n120_s2_v3_iter15.cnf,shared/logs/n120_s2_v3_iter15.log
