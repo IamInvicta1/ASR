@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.18163847
 # Active Spectral Reduction (ASR) for SAT Solving
 
 **Developed by:** iaminvicta
